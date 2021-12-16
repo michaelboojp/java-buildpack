@@ -657,7 +657,7 @@ jdk.tls.legacyAlgorithms= \
         DH_RSA_EXPORT, RSA_EXPORT, \
         DH_anon, ECDH_anon, \
         RC4_128, RC4_40, DES_CBC, DES40_CBC, \
-        3DES_EDE_CBC
+        3DES_EDE_CBC, TLSv1, TLSv1.1
 
 # The pre-defined default finite field Diffie-Hellman ephemeral (DHE)
 # parameters for Transport Layer Security (SSL/TLS/DTLS) processing.
